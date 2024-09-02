@@ -68,4 +68,8 @@ Fórmula utilizada para chegar neste resultado:
   - Seguido por, Mindset (53%)
   - Contexto Estratégico (43%)
  
-    
+
+## Disponibilização dos materiais:
+
+1. (Canvas)[https://www.canva.com/design/DAGMU7hoHns/28loiSCSaxLBBLSDU1LvTw/edit?utm_content=DAGMU7hoHns&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]
+2. (Google Sheets)[https://docs.google.com/spreadsheets/d/1RcVX3vdvbVI1iXQ7zGU6D2EUf131wTXZ/edit?usp=sharing&ouid=117066714637851671968&rtpof=true&sd=true]
