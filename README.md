@@ -21,6 +21,6 @@ Específicas, ou seja, o nível de necessidade muda conforme a especialidade - [
 - Na tabela NivelNecessidadePo temos uma nota de nível esperado para considerar o PO apto para aquela skill.
 
 ## Precisamos entender: 
-1.Nossos POs estão aptos a exercer seus papeis?
+  1. Nossos POs estão aptos a exercer seus papeis?
 
-2.Quais são as skills que deveríamos propor treinamentos para nossos POs? Qual seria o primeiro treinamento?
+  2. Quais são as skills que deveríamos propor treinamentos para nossos POs? Qual seria o primeiro treinamento?
