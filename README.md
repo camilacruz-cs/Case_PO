@@ -6,7 +6,7 @@
 O modelo proposto é o modelo de comunidade, onde agrupamos os colaboradores, com diferentes especialidades, em squads e com mesmo objetivo
 A squad é formada por: 1 PO, 1 TechLead, 1 TeamLead e alguns TeamMembers
 
-Para cada um dos papeis e especialidades, existem skills que são:
+- Para cada um dos papeis e especialidades, existem skills que são:
 Gerais, ou seja, independem da especialidade - [Problem solving], [Atitude de dono],[Poder de influência],[Mindset lean e ágil],[Product discovery]
 Específicas, ou seja, o nível de necessidade muda conforme a especialidade - [Contexto estratégico],[Produto como plataforma], [Negócio e indústria], [P&L],[Dados]
 
