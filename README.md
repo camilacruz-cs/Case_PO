@@ -14,11 +14,11 @@ Específicas, ou seja, o nível de necessidade muda conforme a especialidade - [
 
 - A aba BaseAvaliacao contém as notas para cada uma das skills, e é importante observar que muitos colaboradores possuem duas avaliações: [Funcional] e [Matricial].
 
-Sendo a avaliação funcional, referente a avaliação que o gestor direto do colaborador realizou. Ele tem mais insumos históricos, tanto de entrega quanto comportamental e é obrigatório ter realizado o mapeamento.
+- Sendo a avaliação funcional, referente a avaliação que o gestor direto do colaborador realizou. Ele tem mais insumos históricos, tanto de entrega quanto comportamental e é obrigatório ter realizado o mapeamento.
 
-A avaliação matricial é referente a avaliação que o gestor que acompanha a atividade e é opcional.
+- A avaliação matricial é referente a avaliação que o gestor que acompanha a atividade e é opcional.
 
-Na aba NivelNecessidadePo temos uma nota de nível esperado para considerar o PO apto para aquela skill.
+- Na tabela NivelNecessidadePo temos uma nota de nível esperado para considerar o PO apto para aquela skill.
 
 ## Precisamos entender: 
 1.Nossos POs estão aptos a exercer seus papeis?
